@@ -1,0 +1,22 @@
+{
+  "name": "undtils",
+  "version": "0.0.0",
+  "description": "Reusable undici utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indexzero/undtils.git"
+  },
+  "keywords": [
+    "undici"
+  ],
+  "author": "Charlie Robbins <npm@charlie.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indexzero/undtils/issues"
+  },
+  "homepage": "https://github.com/indexzero/undtils#readme"
+}
